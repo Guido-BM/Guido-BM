@@ -2,7 +2,7 @@
 
 
 ## About Me
-I'm a 33-year-old full-stack developer based in Málaga, Spain. Married to a Swedish teacher and proud father to a nearly 3-year-old daughter.
+I'm a full-stack developer based in Málaga, Spain. Married to a Swedish teacher and proud father to a nearly 3-year-old daughter.
 Having accumulated over a decade of invaluable experience in the dynamic hospitality industry, I am currently navigating an exciting transition into the realm of technology. 
 At the age of 33, my professional journey has not only been marked by success but also characterized by an unwavering commitment to excellence, demonstrated leadership in high-pressure environments, and a dedicated pursuit of continuous improvement.
 
